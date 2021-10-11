@@ -1,0 +1,49 @@
+body{
+    background-image: url(./—Pngtree—color\ network\ with\ dots\ on_1160868.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    box-shadow: 10px 10px 5px grey;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+.main{
+    background-color: white;
+    margin: auto;
+    width: 30%;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding-bottom: 11px;   
+}
+h1{
+    font-family: 'Ephesis', cursive;
+}
+h2{
+    font-family: 'Ephesis', cursive;
+}
+/* test */ 
